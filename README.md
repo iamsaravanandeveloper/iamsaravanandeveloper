@@ -1,6 +1,6 @@
 <div align="center">
 
-<a>
+<a href="#about-me">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:1F6FEB,100:58A6FF&text=Saravanan%20E%20S&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=Software%20Developer&descAlignY=58&descSize=18&animation=fadeIn"
     width="100%"
@@ -8,7 +8,7 @@
   />
 </a>
 
-<a>
+<a href="#about-me">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2600&pause=900&color=2F81F7&center=true&vCenter=true&repeat=true&width=800&height=60&lines=Java+%7C+Spring+Boot+%7C+React.js+%7C+PostgreSQL;Building+Scalable+Enterprise+Applications;Focused+on+Backend+Engineering+and+Performance;Learning+DSA+%7C+LLD+%7C+HLD+%7C+Deployment"
     alt="Typing introduction"
@@ -136,14 +136,23 @@ public class Saravanan {
 
 <br/>
 
-## Coding Practice
+## GitHub Activity
 
 <div align="center">
 
-<a href="https://leetcode.com/u/Saravanan_ES/">
+<a href="https://github.com/iamsaravanandeveloper">
   <img
-    src="https://img.shields.io/badge/View%20My%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
-    alt="LeetCode Profile"
+    width="48%"
+    src="https://github-stats-extended.vercel.app/api?username=iamsaravanandeveloper&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark"
+    alt="Saravanan GitHub Statistics"
+  />
+</a>
+
+<a href="https://github.com/iamsaravanandeveloper">
+  <img
+    width="48%"
+    src="https://streak-stats.demolab.com?user=iamsaravanandeveloper&theme=dark&hide_border=true"
+    alt="Saravanan GitHub Streak"
   />
 </a>
 
@@ -151,29 +160,25 @@ public class Saravanan {
 
 <br/>
 
-## Connect With Me
+### Contribution Activity
 
 <div align="center">
 
-<a href="mailto:iamsaravanandeveloper@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-iamsaravanandeveloper%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
-
-<a href="https://leetcode.com/u/Saravanan_ES/">
-  <img
-    src="https://img.shields.io/badge/LeetCode-Saravanan__ES-FFA116?style=flat-square&logo=leetcode&logoColor=black"
-    alt="LeetCode"
-  />
-</a>
-
-<a href="https://github.com/iamsaravanandeveloper">
-  <img
-    src="https://img.shields.io/badge/GitHub-iamsaravanandeveloper-181717?style=flat-square&logo=github&logoColor=white"
-    alt="GitHub"
-  />
+<a href="#github-activity">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/iamsaravanandeveloper/iamsaravanandeveloper/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/iamsaravanandeveloper/iamsaravanandeveloper/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/iamsaravanandeveloper/iamsaravanandeveloper/output/github-contribution-grid-snake.svg"
+      alt="GitHub contribution snake animation"
+    />
+  </picture>
 </a>
 
 </div>
@@ -184,7 +189,7 @@ public class Saravanan {
 
 ### Build. Learn. Improve. Repeat.
 
-<a>
+<a href="#about-me">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:58A6FF,50:1F6FEB,100:0D1117"
     width="100%"
